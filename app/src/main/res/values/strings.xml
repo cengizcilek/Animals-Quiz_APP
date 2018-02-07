@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animals</string>
+    <string name="final_message">Congratulations</string>
+    <string name="final_message_correct_out_of">correct out of 8</string>
+    <string name="correct_number">correct out of 8</string>
+    <string name="congratulations">Congratulations You Have Finished</string>
+</resources>
